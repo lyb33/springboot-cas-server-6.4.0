@@ -1,0 +1,6 @@
+cas:
+  authn:
+    accept:
+      enabled: true
+      name: Static Credentials
+      users: casuser::123456
